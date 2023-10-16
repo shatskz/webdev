@@ -1,0 +1,24 @@
+{
+  "name": "sample_project",
+  "version": "0.1.0",
+  "description": "Starting repo from scratch in class",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shatskz/webdev.git"
+  },
+  "keywords": [
+    "apple",
+    "shoe",
+    "tesla"
+  ],
+  "author": "Z. Shatsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shatskz/webdev/issues"
+  },
+  "homepage": "https://github.com/shatskz/webdev#readme"
+}
